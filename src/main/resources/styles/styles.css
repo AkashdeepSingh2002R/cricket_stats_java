@@ -1,0 +1,37 @@
+/* styles.css */
+
+.stack-pane {
+    -fx-background-color: #e0f7fa; /* Light blue background */
+}
+.vbox{
+-fx-background-color: #F5F0DD;
+}
+
+.label {
+    -fx-font-family: "Arial";
+    -fx-text-fill: #004d40; /* Dark green text */
+}
+
+.bar-chart {
+    -fx-background-color: transparent;
+}
+
+.button {
+    -fx-background-color: #004d40; /* Dark green background */
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.table-view {
+    -fx-background-color: Orange; /* White background */
+    -fx-border-color: #004d40; /* Dark green border */
+}
+
+.table-column-header {
+    -fx-background-color: #004d40; /* Dark green header */
+    -fx-text-fill: white;
+}
+
+.table-cell {
+    -fx-background-color: #e0f7fa; /* Light blue cells */
+}
